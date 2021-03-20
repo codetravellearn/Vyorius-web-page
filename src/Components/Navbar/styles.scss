@@ -1,0 +1,20 @@
+.logo{
+    width:10.0rem;
+    position: absolute;
+    top: 44%; left: 20px;
+    -webkit-transform: translateY(50%);
+    -moz-transform: translateY(-50%);
+    transform : translateY(-50%);
+}
+img{
+         display : block;
+         width: 50%;
+        margin: 0;    
+    }
+.navbar-nav{
+    padding-left: 3rem;
+}
+#btn{
+    background-color: (225,69,1);
+    border-color: (225,69,1);
+}
